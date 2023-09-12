@@ -4,8 +4,6 @@ Submitted by: Ricky Wong
 
 BeReal is an app that allows users to view images other users posted after uploading images of their own within 24 hours.
 
-Time spent: 1 hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
