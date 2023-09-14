@@ -1,8 +1,7 @@
-# Project 6 - BeReal
+BeReal Clone with API
 
-Submitted by: Ricky Wong
 
-BeReal is an app that allows users to view images other users posted after uploading images of their own within 24 hours.
+BeReal is an app that allows users to view images other users posted after uploading images of their own within 24 hours. Instead, there is a twist that displays a Instagram-like home page.
 
 ## Required Features
 
